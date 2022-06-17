@@ -1,5 +1,7 @@
 # Logical Verification 2021: Installation Instructions
 
+[Website](https://lean-forward.github.io/logical-verification/2021/index.html)
+
 We have installation instructions for Windows, Linux, and macOS. As a backup
 plan, we provide a virtual machine on which Lean is already installed.
 
